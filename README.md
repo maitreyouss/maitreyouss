@@ -7,3 +7,7 @@ Paris · [TECHMOVE](https://www.tech-move-consulting.com) · [LinkedIn](https://
 ## Stack
 
 TypeScript, React, Next.js, LangGraph.js, MCP, Vercel AI SDK, Vitest, Playwright.
+
+## Projets
+
+- [next-agent-trace](https://github.com/maitreyouss/next-agent-trace) — Une phrase ne sort que si une carte du registre a été ouverte.
