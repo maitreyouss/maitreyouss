@@ -10,4 +10,4 @@ TypeScript, React, Next.js, LangGraph.js, MCP, Vercel AI SDK, Vitest, Playwright
 
 ## Projets
 
-- [next-agent-trace](https://github.com/maitreyouss/next-agent-trace) — Une phrase ne sort que si une carte du registre a été ouverte.
+- [next-agent-trace](https://github.com/maitreyouss/next-agent-trace) — Une phrase ne sort que si une carte du registre a été ouverte. Démo : [next-agent-trace.vercel.app](https://next-agent-trace.vercel.app)
